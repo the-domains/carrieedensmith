@@ -1,6 +1,6 @@
 name: Carrie Eden Smith
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 1
 title: Carrie Eden Smith
 cta:
@@ -23,7 +23,7 @@ color:
     - '#6d3f38'
     - '#2483a1'
   brandStrength: 0
-  lightness: 0.5
+  lightness: 1
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
