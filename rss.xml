@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Carrie Eden Smith]]></title>
         <description><![CDATA[Carrie Eden Smith]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/carrieedensmith/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 23:51:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 00:09:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/carrieedensmith/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <description><![CDATA[<h1>Welcome</h1>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <description><![CDATA[<article><h1>Welcome</h1><p>This is a place where I express myself – my truth; where I educate, entertain and inspire.</p></article>]]></description>
+            <link>https://thegrid.ai/carrieedensmith/welcome/index.html</link>
             <guid isPermaLink="false">3754d134-35ee-4f52-b7ea-5c14efa8d3e7</guid>
-            <pubDate>Mon, 28 Mar 2016 23:51:29 GMT</pubDate>
+            <pubDate>Tue, 29 Mar 2016 00:08:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
